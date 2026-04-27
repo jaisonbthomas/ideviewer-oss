@@ -227,3 +227,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 Apache License 2.0 — Copyright 2024-2026 Securient
 
 See [LICENSE](LICENSE) for the full text.
+
+## Kiro IDE support
+
+This project now includes Kiro IDE support with IDE detection, extension scanning, MCP detection, dependency inspection, filesystem monitoring, and Open VSX integration.
